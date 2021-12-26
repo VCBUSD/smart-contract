@@ -1,4 +1,4 @@
-# <img src="logo/logo.png" alt="HBTC" width="100px">
+# <img src="logo/web-logo-03_300x300.png" alt="VCBUSD" width="100px">
 
 Token BSC utility to be distributed all over the world.
 
